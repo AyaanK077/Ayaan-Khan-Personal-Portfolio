@@ -456,8 +456,6 @@ main {
 
 .navbar {
   position: fixed;
-  top: 2px;
-  padding-top: 6px;
   bottom: 0;
   left: 0;
   width: 100%;
