@@ -32,16 +32,6 @@ It’s designed to be responsive across devices and provide visitors with a clea
 
 ---
 
-## Demo
-
-Desktop:  
-![Portfolio Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-
-Mobile:  
-![Portfolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
----
-
 ## Getting Started
 
 If you’d like to run this project locally:
