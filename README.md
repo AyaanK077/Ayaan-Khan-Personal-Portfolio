@@ -1,44 +1,56 @@
-# vCard - Personal portfolio
+# Ayaan Khan - Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/ayaank077/Ayaan-Khan-Personal-Portfolio)
+![GitHub stars](https://img.shields.io/github/stars/ayaank077/Ayaan-Khan-Personal-Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ayaank077/Ayaan-Khan-Personal-Portfolio?style=social)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+This is my **personal portfolio website**, built to showcase my projects, skills, and experience as a software engineering student at the University of Texas at Dallas.  
+It’s designed to be responsive across devices and provide visitors with a clean, modern way to learn more about me and my work.
+
+🔗 **Live Site:** [ayaank077.github.io/Ayaan-Khan-Personal-Portfolio](https://ayaank077.github.io/Ayaan-Khan-Personal-Portfolio/)
+
+---
+
+## Features
+
+- Responsive design that works across desktop, tablet, and mobile  
+- Sections for:
+  - About Me
+  - Skills & Tools
+  - Projects
+  - Resume
+  - Contact  
+- Simple and minimal UI with smooth navigation
+
+---
+
+## Tech Stack
+
+- **HTML5** – semantic structure  
+- **CSS3** – custom styling, animations, responsiveness  
+- **JavaScript (Vanilla)** – interactivity and DOM manipulation  
+
+---
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+Desktop:  
+![Portfolio Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 
-## Prerequisites
+Mobile:  
+![Portfolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Getting Started
 
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
+If you’d like to run this project locally:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+# Clone the repository
+git clone https://github.com/ayaank077/Ayaan-Khan-Personal-Portfolio.git
 
-Windows:
+# Navigate into the folder
+cd Ayaan-Khan-Personal-Portfolio
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+# Open index.html in your browser
